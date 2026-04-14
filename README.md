@@ -18,8 +18,6 @@ This project blends creative storytelling with web design. Built using HTML and 
 
 🖼️ Preview
 
-(Add a screenshot of your website here)
-Example:
 "Preview" (https://raw.githubusercontent.com/jhorizons1/TheBalanceBetweenWorlds/refs/heads/main/Screenshot.jpg)
 
 ---
